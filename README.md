@@ -15,7 +15,7 @@ Vanilla JavaScript
 
 **📦 How to Use**
 1.Clone the repository:
-  git clone https://github.com/your-username/simple-quiz-app.git
+ (https://github.com/suborazz/-Simple-Quiz-App)
 
   cd simple-quiz-app
   Open index.html in your browser.
@@ -23,3 +23,4 @@ Vanilla JavaScript
 That's it! No build tools or dependencies required.
 
 **🧪 Live Preview ** 
+https://suborazz.github.io/Simple-Quiz-App/
